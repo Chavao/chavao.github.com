@@ -3,6 +3,7 @@ layout: post
 title:  "O que preciso para ser um bom programador?"
 date:   2013-05-14 22:00
 categories: aleatorio
+icon: "icon-lightbulb"
 ---
 
 Assunto batido, eu sei, mas deixo aqui o meu ponto de vista caso você queira virar um bom programador.
