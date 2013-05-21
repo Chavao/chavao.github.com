@@ -2,4 +2,4 @@ Este é o meu blog. Pretendo escrever principalmente sobre minhas experiências 
 
 Caso encontre algum erro, queira atualizar uma entrada, contribuir com mais informações em alguma postagem fique a vontade. =D
 
-**[blog.samuelsimoes.com](http://blog.samuelsimoes.com)**
+**[http://gh.chavao.net](http://gh.chavao.net)**
